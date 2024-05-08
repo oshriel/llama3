@@ -39,6 +39,7 @@ do
         MODEL_PATH="70b_instruction_tuned"
     fi
 
+àa
     echo "Downloading ${MODEL_PATH}"
     mkdir -p ${TARGET_FOLDER}"/${MODEL_FOLDER_PATH}"
 
